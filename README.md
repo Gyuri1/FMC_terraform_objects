@@ -86,14 +86,16 @@ fmc_host_objects_tumb_220 = {
   }
 ```
 
-For single object please review this:
-https://github.com/CiscoDevNet/terraform-provider-fmc/tree/main/examples/fmc_host_objects
+For single object please review this:  
+https://github.com/CiscoDevNet/terraform-provider-fmc/tree/main/examples/fmc_host_objects  
 
-Reference:
-https://registry.terraform.io/providers/CiscoDevNet/fmc/latest/docs/resources/host_objects
+References:  
+https://github.com/CiscoDevNet/terraform-provider-fmc/tree/main  
+https://registry.terraform.io/providers/CiscoDevNet/fmc/latest/docs/resources/host_objects  
 
-How to use for_each:
-https://www.youtube.com/watch?v=aARIovQQSJ4
-FMC and terraform:
-https://www.youtube.com/watch?v=VH8vHqodTXE
+How to use for_each:  
+https://www.youtube.com/watch?v=aARIovQQSJ4  
+
+FMC and terraform:  
+https://www.youtube.com/watch?v=VH8vHqodTXE  
 
