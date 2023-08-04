@@ -92,5 +92,7 @@ https://github.com/CiscoDevNet/terraform-provider-fmc/tree/main/examples/fmc_hos
 Reference:
 https://registry.terraform.io/providers/CiscoDevNet/fmc/latest/docs/resources/host_objects
 
+How to use for_each:
+https://www.youtube.com/watch?v=aARIovQQSJ4
 
 
