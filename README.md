@@ -94,5 +94,6 @@ https://registry.terraform.io/providers/CiscoDevNet/fmc/latest/docs/resources/ho
 
 How to use for_each:
 https://www.youtube.com/watch?v=aARIovQQSJ4
-
+FMC and terraform:
+https://www.youtube.com/watch?v=VH8vHqodTXE
 
