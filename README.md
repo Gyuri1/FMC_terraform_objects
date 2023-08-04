@@ -3,8 +3,8 @@
 This terraform template demonstrates how to add objects from a CSV file.
 
 The ```objs.csv``` file contains the object names and values.
- 
 
+The ```terraform.tfvars``` file contains the FMC configuration. 
 
 This is the expected output:
 
