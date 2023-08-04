@@ -86,3 +86,9 @@ fmc_host_objects_tumb_220 = {
   }
 ```
 
+For single object please review this:
+https://github.com/CiscoDevNet/terraform-provider-fmc/tree/main/examples/fmc_host_objects
+
+
+
+
