@@ -2,6 +2,9 @@
 
 This terraform template demonstrates how to add objects from a CSV file.
 
+The ```objs.csv``` file contains the object names and values.
+ 
+
 
 This is the expected output:
 
